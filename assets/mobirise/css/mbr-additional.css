@@ -563,9 +563,11 @@ h6,
 }
 #features1-1g .mbr-cards-col:nth-child(odd) .card-subtitle {
   text-align: center;
+  color: #c1c1c1;
 }
 #features1-1g .mbr-cards-col:nth-child(odd) .card-subtitle P {
   text-align: center;
+  color: #c1c1c1;
 }
 #features1-1g .mbr-cards-col:nth-child(even) .card-subtitle SPAN {
   font-family: 'Raleway', sans-serif;
@@ -719,19 +721,6 @@ h6,
 }
 #header1-s .mbr-section-title DIV {
   text-align: right;
-}
-#features4-d .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-d .iconbox {
-  background-color: #c1c1c1;
-  border-color: #c1c1c1;
-}
-#features4-d H4 {
-  color: #efefef;
-}
-#features4-d P {
-  color: #efefef;
 }
 #msg-box8-i .mbr-section-title,
 #msg-box8-i p {
