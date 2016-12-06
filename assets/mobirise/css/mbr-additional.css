@@ -478,6 +478,7 @@ h6,
 #form1-x .form-control-label {
   color: #232323;
 }
+
 #menu-1a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -562,6 +563,13 @@ h6,
 }
 #features1-1g .mbr-cards-col:nth-child(odd) .card-subtitle {
   text-align: center;
+}
+#features1-1g .mbr-cards-col:nth-child(odd) .card-subtitle P {
+  text-align: center;
+}
+#features1-1g .mbr-cards-col:nth-child(even) .card-subtitle SPAN {
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
 }
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
@@ -892,10 +900,6 @@ h6,
 }
 #header3-3x .mbr-section-title,
 #header3-3x .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-21 .mbr-section-title,
-#header3-21 .mbr-section-subtitle {
   text-align: center;
 }
 #menu-22 .hide-buttons .nav-btn {
