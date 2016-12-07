@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home.html",
+    "currentPage": "Ontwerpprocesvooronderzoek.html",
     "name": "Multidisciplinair",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 142,
+    "uniqCompNum": 144,
     "versionPublish": "3.9.2",
     "publishType": "local",
     "publishPath": "file:///Users/charlottelecat/Desktop/MOBIRISE%20lokaal",
@@ -59,13 +59,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -94,7 +94,7 @@
           "_name": "menu",
           "_anchor": "menu-v",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -121,7 +121,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -158,7 +158,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -195,7 +195,25 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-3z",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#efefef",
+            "googleMap": {
+              "address": "Academie antwerpen ",
+              "placeId": "ChIJfzX7zlf2w0cRfHv60i0VXr8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
         }
       ]
     },
@@ -229,13 +247,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -264,7 +282,7 @@
           "_name": "menu",
           "_anchor": "menu-1a",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -291,7 +309,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -317,7 +335,7 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
+              "background-color": "#efefef"
             },
             ".mbr-cards-col:nth-child(odd) .card-title": {
               "color": "#000000"
@@ -347,13 +365,13 @@
           },
           "_anchor": "features1-1g",
           "_params": {
-            "columnsColor": "#ffffff",
+            "columnsColor": "#efefef",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -362,7 +380,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
@@ -382,7 +400,7 @@
             }
           },
           "title1": "Charlotte",
-          "subtitle1": "<p>&nbsp;\"Style is a way to say who you are without having to speak\" &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>&nbsp;</b></p>",
+          "subtitle1": "<p>&nbsp;\"Style is a way to say who you are without having to speak\"</p><br><p><br></p>",
           "caption1": "Text under construction&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -398,7 +416,7 @@
             }
           },
           "title2": "Manon",
-          "subtitle2": "\"My goal is to create a home from a house.\"<br><br><span style=\"font-style: normal;\">Text under construction&nbsp;</span>",
+          "subtitle2": "\"My goal is to create a home from a house.\"<br><br><br><span style=\"font-style: normal;\">Text under construction&nbsp;</span>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -415,7 +433,7 @@
           },
           "title3": "Isabelle",
           "subtitle3": "Text under construction&nbsp;",
-          "caption3": "<br><br>Text under construction&nbsp;",
+          "caption3": "<br>Text under construction&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -430,7 +448,7 @@
             }
           },
           "title4": "Zoë&nbsp;",
-          "subtitle4": "\"Good design is good business\"<br>",
+          "subtitle4": "\"Good design is good business\"<br><br><br>",
           "caption4": "Student interieurarchitectuur derde bachelor. Houdt zich graag bezig met ontwerpen en het analyseren van interieurs.&nbsp;",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -524,7 +542,7 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -551,7 +569,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -727,13 +745,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -762,7 +780,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -789,7 +807,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -997,7 +1015,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>     "
         }
       ]
     },
@@ -1066,7 +1084,7 @@
           "_name": "menu",
           "_anchor": "menu-1p",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -1093,7 +1111,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1205,13 +1223,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1240,7 +1258,7 @@
           "_name": "menu",
           "_anchor": "menu-1z",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -1267,7 +1285,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1283,7 +1301,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Algemene reflectie&nbsp;",
@@ -1298,7 +1316,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>Text under construction&nbsp;</p>",
           "text2": "<p>Text under construction&nbsp;</p>"
@@ -1312,7 +1330,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>Text under construction&nbsp;</p>",
           "text2": "<p>Text under construction&nbsp;</p>"
@@ -1326,7 +1344,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text1": "<p>Text under construction&nbsp;</p>",
           "text2": "<p>Text under construction&nbsp;</p>"
@@ -1357,7 +1375,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "text": "<blockquote>Text under construction&nbsp;</blockquote>"
         }
@@ -1392,13 +1410,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1427,7 +1445,7 @@
           "_name": "menu",
           "_anchor": "menu-22",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -1454,7 +1472,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1490,7 +1508,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "4",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Persoonlijke reflectie&nbsp;",
@@ -1508,7 +1526,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1579,13 +1597,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1614,7 +1632,7 @@
           "_name": "menu",
           "_anchor": "menu-25",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -1641,7 +1659,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1674,7 +1692,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "4",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Persoonlijke reflectie&nbsp;",
@@ -1692,7 +1710,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1763,13 +1781,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1798,7 +1816,7 @@
           "_name": "menu",
           "_anchor": "menu-28",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -1825,7 +1843,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1858,7 +1876,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "2",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Persoonlijke reflectie&nbsp;",
@@ -1876,7 +1894,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1943,13 +1961,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1978,7 +1996,7 @@
           "_name": "menu",
           "_anchor": "menu-2b",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -2005,7 +2023,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2037,8 +2055,8 @@
           "_anchor": "header3-2d",
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "2",
-            "bgColor": "#fff",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Persoonlijke reflectie&nbsp;",
@@ -2052,11 +2070,11 @@
           "_anchor": "msg-box5-3s",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2128,13 +2146,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2163,7 +2181,7 @@
           "_name": "menu",
           "_anchor": "menu-2q",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -2190,7 +2208,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2501,13 +2519,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#d6d6d6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#e7e7e7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#efefef"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2536,7 +2554,7 @@
           "_name": "menu",
           "_anchor": "menu-2i",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
@@ -2563,7 +2581,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Wie zijn wij?&nbsp;<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\" aria-expanded=\"false\">Home&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Wiezijnwij.html\" aria-expanded=\"false\">Team<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Ontwerpproces<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerpprocesvooronderzoek.html\">Vooronderzoek</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Ontwerprocesproduct.html\">Product</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Productbeschrijving</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Productbeschrijvingwerking.html\">Werking</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Materialisatie</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Reflectie&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiealgemeen.html\">Algemeen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ReflectieCharlotte.html\">Charlotte&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectieisabelle.html\">Isabelle&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Reflectiemanon.html\">Manon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Zoë</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Contact</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact.html\">Contact</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "msg-box8",
@@ -2612,7 +2630,7 @@
             "timeout": "6",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2640,7 +2658,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -2654,7 +2672,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "fullScreen": false,
+            "fullScreen": true,
             "bgColor": "#efefef",
             "showBullets": true
           },
