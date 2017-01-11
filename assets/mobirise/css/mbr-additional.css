@@ -479,6 +479,7 @@ h6,
   color: #232323;
 }
 
+
 #menu-1a .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -560,6 +561,8 @@ h6,
 }
 #features1-1g .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #c1c1c1;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
 }
 #features1-1g .mbr-cards-col:nth-child(odd) .card-subtitle {
   text-align: center;
@@ -574,6 +577,7 @@ h6,
   font-size: 16px;
   text-align: center;
 }
+
 #menu-1n .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -644,6 +648,10 @@ h6,
 #header3-3a .mbr-section-title,
 #header3-3a .mbr-section-subtitle {
   text-align: center;
+}
+#content2-4v BLOCKQUOTE {
+  color: #000000;
+  font-family: 'Raleway', sans-serif;
 }
 
 #menu-0 .hide-buttons .nav-btn {
@@ -886,6 +894,7 @@ h6,
 #header3-34 SMALL {
   text-align: right;
 }
+
 #menu-2i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -959,6 +968,7 @@ h6,
 }
 #content2-4h BLOCKQUOTE {
   color: #000000;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-1p .hide-buttons .nav-btn {
   display: none !important;
